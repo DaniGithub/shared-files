@@ -214,6 +214,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    borderRadius: '4px',
 	    outline: 'none',
 	    padding: '20px'
+			width: '50vw'
 	  }
 	};
 
